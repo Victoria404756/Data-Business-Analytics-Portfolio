@@ -1,4 +1,4 @@
-# Data/Business Analytics Portfolio
+# Data & Business Analytics Portfolio
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Reporting-217346?logo=microsoftexcel&logoColor=white)
